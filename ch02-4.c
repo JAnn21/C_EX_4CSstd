@@ -3,7 +3,7 @@
 void main() {
 	char str[20] = "Data Structure!";
 	int i;
-	printf("\n¹®ÀÚ ¹è¿­ str[] : ");
+	printf("\n Â¹Â®Ã€Ãš Â¹Ã¨Â¿Â­ str[] : ");
 	for (i = 0; str[i]; i++) {
 		printf("%c", str[i]);
 	}
